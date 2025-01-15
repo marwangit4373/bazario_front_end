@@ -12,15 +12,7 @@ import UserRoute from './pages/UserRoute';
 
 const App = () => {
   return (
-  //   <CartProvider>
-  //   <div>
-  //     <h1>Product Page</h1>
-  //     <ProductList />
-  //     <Cart/>
-  //   </div>
-  // </CartProvider>
-  <>
-    {/* <ProductList></ProductList> */}
+    <>
       <Nav />
       <UserRoute />
     </>
